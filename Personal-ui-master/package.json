@@ -1,0 +1,11 @@
+{
+  "name": "personal-ui",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A beginning theme",
+  "license": "MIT",
+  "repository": "https://github.com/atom/atom-dark-ui",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
